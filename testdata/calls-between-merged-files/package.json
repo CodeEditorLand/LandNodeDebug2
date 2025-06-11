@@ -9,7 +9,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@types/node": "^22.15.30",
+    "@types/node": "^24.0.0",
     "gulp": "^5.0.1",
     "gulp-concat": "^2.6.1",
     "gulp-filter": "^9.0.1",
